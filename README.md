@@ -26,12 +26,12 @@ All analysis is implemented in **Python (Jupyter Notebook)**.
 ```
 .
 ├── groupproject_finalversion.ipynb        # Main analysis and visualisation notebook
-├── data/                          # Raw datasets
-│   ├── gdp_data.csv
-│   ├── gdp_per_capita.csv
-│   ├── co2_emissions.csv
-│   ├── emissions_per_capita.csv
-│   └── temperatures_global.csv
+├── data/                                  # Raw datasets
+│   ├── gdpdata.csv
+│   ├── gdppercapita.csv
+│   ├── co2emissions.csv
+│   ├── emissions_percapita.csv
+│   └── GlobalTemperatures.csv
 └── README.md                      # Project documentation
 ```
 
