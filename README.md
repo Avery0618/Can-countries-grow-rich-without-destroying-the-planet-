@@ -25,14 +25,13 @@ All analysis is implemented in **Python (Jupyter Notebook)**.
 
 ```
 .
-├── finalgroup_aleV2.ipynb        # Main analysis and visualisation notebook
-├── data/                          # Raw and cleaned datasets
+├── groupproject_finalversion.ipynb        # Main analysis and visualisation notebook
+├── data/                          # Raw datasets
 │   ├── gdp_data.csv
 │   ├── gdp_per_capita.csv
 │   ├── co2_emissions.csv
 │   ├── emissions_per_capita.csv
 │   └── temperatures_global.csv
-├── figures/                       # Exported charts (optional)
 └── README.md                      # Project documentation
 ```
 
@@ -84,7 +83,13 @@ The analysis follows a structured workflow:
 
 ## 5. Key Insights
 
-* 
+* Only 47 of 179 countries (26%) achieved GDP growth with falling emissions
+* Advanced economies emit 20x less CO2 per dollar of GDP than resource-dependent nations
+* 132 countries still linking growth to carbon account for 70% of emissions (26 Gt) and growing
+
+* Use green bonds and carbon markets to make clean growth economically attractive for developing nations
+* Help emerging economies leapfrog to clean production methods
+
 ---
 
 ## 6. How to Run the Notebook
