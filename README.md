@@ -32,6 +32,8 @@ All analysis is implemented in **Python (Jupyter Notebook)**.
 │   ├── co2emissions.csv
 │   ├── emissions_percapita.csv
 │   └── GlobalTemperatures.csv
+│   └── GlobalLandTemperaturesByCountry.csv
+│   └── globalmeananomalies.csv
 └── README.md                      # Project documentation
 ```
 
